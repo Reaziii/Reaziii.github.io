@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.819edccc.chunk.css",
+    "main.js": "/static/js/main.a0915cda.chunk.js",
+    "main.js.map": "/static/js/main.a0915cda.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.833398b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.833398b2.js.map",
+    "static/js/2.5a448517.chunk.js": "/static/js/2.5a448517.chunk.js",
+    "static/js/2.5a448517.chunk.js.map": "/static/js/2.5a448517.chunk.js.map",
+    "static/js/3.15b39d11.chunk.js": "/static/js/3.15b39d11.chunk.js",
+    "static/js/3.15b39d11.chunk.js.map": "/static/js/3.15b39d11.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.819edccc.chunk.css.map": "/static/css/main.819edccc.chunk.css.map",
+    "static/js/2.5a448517.chunk.js.LICENSE.txt": "/static/js/2.5a448517.chunk.js.LICENSE.txt",
+    "static/media/favicon.0b1d382b.ico": "/static/media/favicon.0b1d382b.ico",
+    "static/media/joker.32accab7.jpg": "/static/media/joker.32accab7.jpg",
+    "static/media/mongo.a92cc370.png": "/static/media/mongo.a92cc370.png",
+    "static/media/nodejs.1dabc052.png": "/static/media/nodejs.1dabc052.png",
+    "static/media/profilepic.f37d785a.jpg": "/static/media/profilepic.f37d785a.jpg",
+    "static/media/react.903d77ad.svg": "/static/media/react.903d77ad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.833398b2.js",
+    "static/js/2.5a448517.chunk.js",
+    "static/css/main.819edccc.chunk.css",
+    "static/js/main.a0915cda.chunk.js"
+  ]
+}
